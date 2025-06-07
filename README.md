@@ -38,3 +38,22 @@ ElectConnect was inspired by a relative who recently became a U.S. citizen and s
 ElectConnect empowers users—especially from marginalized or less-informed backgrounds—to confidently navigate elections. By turning civic confusion into civic action, we aim to boost participation, foster community awareness, and strengthen democracy.
 ---
 
+<details>
+  <summary>▶Click to expand slideshow (14 slides)</summary>
+
+![Slide 1](slides/s1.png)
+![Slide 2](slides/s2.png)
+![Slide 3](slides/s3.png)
+![Slide 4](slides/s4.png)
+![Slide 5](slides/s5.png)
+![Slide 6](slides/s6.png)
+![Slide 7](slides/s7.png)
+![Slide 8](slides/s8.png)
+![Slide 9](slides/s9.png)
+![Slide 10](slides/s10.png)
+![Slide 11](slides/s11.png)
+![Slide 12](slides/s12.png)
+![Slide 13](slides/s13.png)
+![Slide 14](slides/s14.png)
+
+</details>
