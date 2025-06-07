@@ -39,7 +39,7 @@ ElectConnect empowers users—especially from marginalized or less-informed back
 ---
 
 <details>
-  <summary>▶Click to expand slideshow (14 slides)</summary>
+  <summary>Click to expand slideshow (14 slides)</summary>
 
 ![Slide 1](slides/s1.png)
 ![Slide 2](slides/s2.png)
